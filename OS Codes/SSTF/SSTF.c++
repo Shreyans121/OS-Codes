@@ -7,7 +7,7 @@ int n;
 int head;
 int done[N];
 int positions[N];
-
+5
 void sstf(void)
 {
     int movement,shortest,index;

@@ -11,7 +11,7 @@ int main()
 
       printf("Enter Total Number of Frames:\t");
       scanf("%d", &total_frames);
-      
+
       for(m = 0; m < total_frames; m++)
       {
             frame[m] = -1;
